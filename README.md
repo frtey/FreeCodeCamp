@@ -6,7 +6,7 @@ Lien général vers le dépôt : https://replit.com/@frtey
 1. [APIs and Microservices Projects](#1-apis-and-microservices-projects)
 2. [Quality Assurance](#2-quality-assurance)
 
-## 1. <ins>APIs and Microservices Projects</ins>
+## 1. APIs and Microservices Projects
 
 **Ces projets m'ont permis d'aborder la construction d'un serveur de microservice en Javascript Node.js, ainsi que l'utilisation de certaines de ses bibliothéques les plus utiles, comme Express ou Mongoose. J'ai également pu explorer le fonctionnement (création, mise à jour et interrogation) d'une base de données noSQL (MongoDB en l'occurence) ce qui était nouveau pour moi, ayant plutôt l'habitude du SQL, ainsi que de Mongoose, de sa syntaxe et de son système de schémas et models. Enfin, j'en ai également plus appris sur le fonctionnement des APIs, de ses méthodes GET et POST, et de comment articuler les routes et réponses via Express.**
 
@@ -46,7 +46,7 @@ https://replit.com/@frtey/boilerplate-project-filemetadata
 
 <ins>But du projet</ins> : Recevoir du client en POST un fichier envoyé vers /api/fileanalyse, et renvoyer vers le client un json avec le nom du fichier, son type et sa taille.
 
-## 2. <ins>Quality Assurance</ins>
+## 2. Quality Assurance
 
 **NOTE: A chaque exercice et avant l'écriture du code lui-même, des tests unitaires et fonctionnels ont été écrits. Comme je l'ai fait pour chaque projet, je ne le reprécise pas dans les descriptions**
 
