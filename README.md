@@ -3,8 +3,8 @@ Collection de liens vers mon dépôt Repl.it, constitué de projets FreeCodeCamp
 
 Lien général vers le dépôt : https://replit.com/@frtey
 
-1. [APIs and Microservices Projects](#my-first-title)
-2. [Quality Assurance](#my-second-title)
+1. [APIs and Microservices Projects](#1-apis-and-microservices-projects)
+2. [Quality Assurance](#2-quality-assurance)
 
 ## 1. <ins>APIs and Microservices Projects</ins>
 
