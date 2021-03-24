@@ -43,17 +43,17 @@ https://replit.com/@frtey/boilerplate-project-filemetadata
 
 <ins>But du projet</ins> : Recevoir du client en POST un fichier envoyé vers /api/fileanalyse, et renvoyer vers le client un json avec le nom du fichier, son type et sa taille.
 
-##2. <ins>Quality Assurance</ins>
+## 2. <ins>Quality Assurance</ins>
 
 **NOTE: A chaque exercice et avant l'écriture du code lui-même, des tests unitaires et fonctionnels ont été écrits. Comme je l'ai fait pour chaque projet, je ne le reprécise pas dans les descriptions**
 
-a) <ins>Metric-Imperial Converter</ins>
+### a) <ins>Metric-Imperial Converter</ins>
 
 https://replit.com/@frtey/boilerplate-project-metricimpconverter
 
 <ins>But du projet</ins> : A partir de l'input d'un utilisateur comprenant un flottant et une unité, envoyé en GET vers /api/convert, valider l'input, effectuer des opérations de conversions d'unité (miles <-> kms; gallons <-> litres; pounds <-> kgs), et renvoyer au client un json avec nombre initial, unité initiale, nombre converti, unité convertie et chaine de caractères rassemblant toute ces informations. Enfin, ecrire tests unitaires et fonctionnels validant le code et le service.
 
-b) <ins>Issue Tracker</ins>
+### b) <ins>Issue Tracker</ins>
 
 https://replit.com/@frtey/boilerplate-project-issuetracker
 
