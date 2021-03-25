@@ -81,7 +81,7 @@ https://replit.com/@frtey/boilerplate-project-library
 
 https://replit.com/@frtey/boilerplate-project-sudoku-solver
 
-<ins>But du projet</ins> : Permet de résoudre une grille Sudoku automatiquement. l'utilisateur fournit au programme une chaine de 81 caractères, composée de points et de chiffres compris entre 1 et 9. A chaque nouveau caractère rentré par l'utilisateur, la grille de Sudoku refléte automatiquement la donnée. En appuyant sur le bouton Solve, l'utilisateur POST la chaine vers /api/solve. Le serveur résout la grille, et la renvoie au client (ou renvoie un message d'erreur si la chaine est trop longue ou si des caractères illégaux sont présent). Un autre module du service permet à l'utilisateur de vérifier si une case donnée peut contenir un chiffre donné.
+<ins>But du projet</ins> : Permet de résoudre une grille Sudoku automatiquement. l'utilisateur fournit au programme une chaine de 81 caractères, composée de points et de chiffres devant être compris entre 1 et 9. A chaque nouveau caractère rentré par l'utilisateur, la grille de Sudoku refléte automatiquement la donnée. En appuyant sur le bouton Solve, le client POST la chaine vers /api/solve. Le serveur résout la grille, et la renvoie au client (ou renvoie un message d'erreur si la chaine est trop longue ou si des caractères illégaux sont présent). Un autre module du service permet à l'utilisateur de vérifier si une case donnée peut contenir un chiffre donné.
 
 
 ### e) <ins>American / British Translator</ins>
