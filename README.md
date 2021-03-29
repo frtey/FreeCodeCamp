@@ -5,6 +5,7 @@ Lien général vers le dépôt : https://replit.com/@frtey
 
 1. [APIs and Microservices Projects](#1-apis-and-microservices-projects)
 2. [Quality Assurance](#2-quality-assurance)
+3. [Scientific Computing with Python](#3-scientific-computing-with-python)
 
 ## 1. APIs and Microservices Projects
 
@@ -89,3 +90,8 @@ https://replit.com/@frtey/boilerplate-project-sudoku-solver
 https://replit.com/@frtey/boilerplate-project-american-british-english-translator
 
 <ins>But du projet</ins> : En rentrant une chaine de caractères, l'utilisateur peut voir si une traduction anglais d'Angleterre <-> anglais des USA existe. La chaine est donc envoyée au serveur, ainsi que le sens de traduction, et un programme parcourt la chaîne mot par mot et cherche la traduction du mot courant. Il renvoie la chaîne avec les traductions surlignés en vert, et remplacant les mots traduits.
+
+
+## 3. Scientific Computing with Python
+
+https://replit.com/@frtey/boilerplate-arithmetic-formatter
