@@ -94,4 +94,12 @@ https://replit.com/@frtey/boilerplate-project-american-british-english-translato
 
 ## 3. Scientific Computing with Python
 
+### a) <ins>Arithmetic Formatter</ins>
+
 https://replit.com/@frtey/boilerplate-arithmetic-formatter
+
+<ins>But du projet</ins> : Formater un input utilisateur : une série de calculs arithmétiques, entre 1 et 5 calculs, doivent être retournés sous forme de calculs posés. Seuls les soustractions et additions sont acceptés.
+Par exemple :
+'''
+arithmetic_arranger(["3 + 855", "3801 - 2", "45 + 43", "123 + 49"])
+'''
